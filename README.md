@@ -13,6 +13,7 @@ Node module to communicate with a AVM FritzBox and FRITZ!DECT 200 (smart home ha
 - Get the phone list (getPhoneList)
 - Set the guest wlan (setGuestWLan)
 - Get the guest wlan settings (getGuestWLan)
+- Get the temperature (getTemperature)
 
 correction of package.json with main for "out of the box" function.
 
